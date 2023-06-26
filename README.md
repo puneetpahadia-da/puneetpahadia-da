@@ -1,20 +1,20 @@
 <h5 align="center"><img width="500" height="300" src="https://media3.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif?cid=ecf05e47yofd7cnbpbfq7ux65h6661xhokiz4hdrqwmpzmgd&rid=giphy.gif&ct=g"></h5>
-<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px"> I'm Piyush  </h1>
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px"> I'm Puneet  </h1>
 <h2 align="center">An Aspiring Data Analyst from Masai School </h2>
 <h3 dir="auto"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" data-animated-image="" ></a> <strong>About Me:</strong></h3>
 <br>
 
 <img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
 
-- 👨‍💻 My Portfolio - **[Piyush Tiwari](https://piyushtiwari.dev.voyage/)**                                 
+- 👨‍💻 My Portfolio - **[Puneet Pahadia](https://puneetpahadia.dev.voyage/)**                                 
 
-- 🌱 I’m currently learning **Data Analysis using Python, SQL and Machine Learning.**
+- 🌱 I’m currently learning **Data Analysis using Python, SQL, MS-Excel, PowerBI and Machine Learning.**
 
-- 📫 How to reach me **piyush.nr.tiwari@gmail.com**
+- 📫 How to reach me **puneetpahadia@gmail.com**
 
-- 📧 Connect with me - **[LinkedIn](https://www.linkedin.com/in/piyush-tiwari-987a4b187/)**
+- 📧 Connect with me - **[LinkedIn](https://www.linkedin.com/in/puneetpahadia)**
 
-- 📜 Visit my Blog page at - **[Medium](https://medium.com/@piyush-nr-tiwari)**
+- 📜 Visit my Blog page at - **[Medium](https://medium.com/@puneetpahadia)**
 
 
 
