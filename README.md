@@ -1,10 +1,18 @@
-<h5 align="center"><img width="500" height="300" src="https://media3.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif?cid=ecf05e47yofd7cnbpbfq7ux65h6661xhokiz4hdrqwmpzmgd&rid=giphy.gif&ct=g"></h5>
+<h5 align="center"><img width="300" height="300" src="https://github.com/puneetpahadia-da/Doctor_Fee_Prediction_with_Web_Application/assets/97096168/87d34ead-f934-49d7-bd00-1b1d9d7cd693"></h5>
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px"> I'm Puneet  </h1>
 <h2 align="center">An Aspiring Data Analyst from Masai School </h2>
 <h3 dir="auto"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" data-animated-image="" ></a> <strong>About Me:</strong></h3>
 <br>
 
 <img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
+
+- 🔌 Electrical Engineer with a passion for data analysis and visualization. 📊
+
+- 🔍 As a Electrical Engineer,  I've cultivated a keen eye for detail and nurtured an analytical mindset, dedicated to upholding the quality and reliability of software products. I am now eagerly channeling these skills toward an exciting new career path as a Data Analyst. 🚀
+
+- 🔎 Currently on a journey to explore and analyze complex datasets, I'm excited to create meaningful visualizations and uncover valuable patterns to support data-driven decision-making. 💡
+
+- 🌱 Continuously learning and growing, I'm open to collaboration and opportunities to apply my skills in real-world data analysis projects.🌌
 
 - 👨‍💻 My Portfolio - **[Puneet Pahadia](https://puneetpahadia.dev.voyage/)**                                 
 
@@ -16,11 +24,13 @@
 
 - 📜 Visit my Blog page at - **[Medium](https://medium.com/@puneetpahadia)**
 
-
+#DataAnalyst #Python #SQL #PowerBI #DataVisualization #MachineLearning #ProblemSolver
 
 <br/>
 <h2 dir="auto"><img src="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966" width="40" data-animated-image="" </a> <strong>Languages &amp; Tools:</strong></h2>
-<p>
+<br>
+<!--Code For Inserting Icon Of Languages and Tools-->
+<p align="center">  
    <a href="#"> <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Ms - Excel"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="mySQL"/> </a> &nbsp;
@@ -29,23 +39,14 @@
   <a href="#"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="mySQL"/> </a> &nbsp;
   <a href="#"> <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="mySQL"/> </a> &nbsp;
   <a href="#"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="mySQL"/> </a> &nbsp;
+  <a href="#"> <img src="https://img.shields.io/badge/Tableau-F2C811?style=for-the-badge&logo=tableau" alt="tableau"/> </a> &nbsp;
+  <a href="#"> <img src="https://img.shields.io/badge/scikit--learn-217346?style=for-the-badge&logo=scikitlearn" alt="Scikitlearn"/> </a> &nbsp;
+
+
+</a>
 </p>
 
 
-<br>
-<!--Code For Inserting Icon Of Languages and Tools-->
-<p align="center">  
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/></a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"/></a>
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/ms-word.png"/></a>
-    <a style="padding-right:8px;" href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-sheets.png"/></a>
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-</p>
 
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneetpahadia-da&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"> <br \>
@@ -72,8 +73,8 @@
     </details>
 
 <h2 dir="auto"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" </a> <strong>Reach out to me:</strong> </h2>
-
-<p align="left">
+<!--Code For Inserting Icon Of Languages and Tools-->
+<p align="center"> 
 <a href = "https://www.linkedin.com/in/puneetpahadia" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
 <a href = "https://github.com/puneetpahadia-da" ><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
 <a href="mailto:puneetpahadia@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
