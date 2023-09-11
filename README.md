@@ -77,7 +77,6 @@
 <p align="center"> 
 <a href = "https://www.linkedin.com/in/puneetpahadia" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
 <a href = "https://github.com/puneetpahadia-da" ><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
-<a href = "https://scholar.google.com/citations?user=IS5s79wAAAAJ&hl=en" ><img src="https://github.com/puneetpahadia-da/puneetpahadia-da/assets/97096168/153788c5-6980-49ed-9050-8a3588006345" width="44" height="44" /></a>
 <a href="mailto:puneetpahadia@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
 <a href="https://www.hackerrank.com/puneetpahadia" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" /></a>
 
